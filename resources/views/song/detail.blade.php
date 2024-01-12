@@ -4,7 +4,7 @@
 <div class="container">
 
     <div class="row justify-content-center">
-        <div class="col-md-6">
+        <div>
                <div class="card mt-5 shadow">
                 <div class="card-body">
                 <div class="mb-3">
@@ -41,4 +41,4 @@
         </div>
     </div>
 </div>
-</div>
+@endsection
